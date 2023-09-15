@@ -1,6 +1,6 @@
 #!/bin/bash
 
-data_file="user_data.txt"
+data_file="user_info.txt"
 
 collect_user_info() {
     read -p "Enter first name: " first_name
